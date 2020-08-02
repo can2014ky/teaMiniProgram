@@ -1,0 +1,23 @@
+{
+  "id": "1690960",
+  "name": "uni-iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "939435",
+      "name": "circle",
+      "font_class": "circle",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "2510073",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e762",
+      "unicode_decimal": 59234
+    }
+  ]
+}
